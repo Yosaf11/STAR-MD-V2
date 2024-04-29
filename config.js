@@ -53,16 +53,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = 'YOUSAF BALOCH'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
-global.author = 'Excel' 
+global.packname = 'YOUSAF KHAN BALOCH' 
+global.author = 'YOUSAF MUSA STICKER KELEYEA ME 03115971525' 
 global.menuvid = 'https://i.imgur.com/p7sdeTT.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
+global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaXTvQ7JuyAHXjJBs61T\n' 
+global.dygp='▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaXTvQ7JuyAHXjJBs61T\n'
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m'
-global.fgpyp = 'https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m'
+global.fgyt = 'https://whatsapp.com/channel/0029VaXTvQ7JuyAHXjJBs61T'
+global.fgpyp = 'https://whatsapp.com/channel/0029VaXTvQ7JuyAHXjJBs61T'
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 
